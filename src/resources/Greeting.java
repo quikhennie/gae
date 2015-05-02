@@ -10,7 +10,7 @@ public class Greeting {
 	@Produces("text/plain")
 	@Path("employee")
 	public String getEmployee() {
-		return "What World";
+		return "What World 2";
 	}
 		
 }
